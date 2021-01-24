@@ -7,21 +7,23 @@
   <br>
 </h1>
 
-[relatostaberna.pt](https://relatostaberna.pt)
-
 <p align="center">
   <br>
   <br>
   Made with :heart: by Psycarlo
 </p>
 
+# Link
+
+[relatostaberna.pt](https://relatostaberna.pt)
+
 # Sobre
 
-TODO
+Melhora através da descontração de uma boa conversa e algumas drogas #OsMediasFazemAsDrogasPerigosas
 
 # TODO
 
-- [ ] Favicon
-- [ ] Choose CSS framework or go Vanilla
-- [ ] UI
-- [ ] Go live on Github Pages
+- [x] Favicon
+- [x] Choose CSS framework or go Vanilla
+- [x] UI
+- [x] Go live on Github Pages
